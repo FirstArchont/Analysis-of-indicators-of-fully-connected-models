@@ -1,0 +1,5 @@
+.mypy_cache/
+venv/
+__pycache__/
+data/
+logs/#3.2.JSON
